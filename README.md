@@ -15,16 +15,6 @@ It is a secure password manager built using **Java Swing** for the GUI, **MySQL*
 
 ---
 
-## 📁 Project Structure
-
-- `LockBox.java` – Main GUI class and program entry point
-- `HashtablePassword.java` – Custom hash table implementation (Linear Probing)
-- `CryptoUtil.java` – Handles encryption and decryption
-- `PasswordGenerator.java` – Random password generator
-- `hashTableMap.java` – Interface for the custom hash table
-
----
-
 ## 💻 Requirements
 
 - Java JDK 8 or above
