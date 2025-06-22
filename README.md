@@ -25,12 +25,6 @@ It is a secure password manager built using **Java Swing** for the GUI, **MySQL*
 
 ---
 
-## 🖼️ Screenshots
-
-> Add GUI screenshots here once available
-
----
-
 ## 💻 Requirements
 
 - Java JDK 8 or above
